@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:gravity="center"
-        android:text="SHOW MY DIALOG Yeah"
+        android:text="SHOW MY DIALOG Yeah uye"
         android:textSize="30sp"
         android:textStyle="bold" />
 
